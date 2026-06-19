@@ -4,6 +4,9 @@ An interactive analytics dashboard tracking 136 Irish Life-domiciled funds, buil
 
 🔗 Live Dashboard: [ajay-wagh-projects.github.io/Irish-Life-Fund-Analytics-Report-](https://ajay-wagh-projects.github.io/Irish-Life-Fund-Analytics-Report-/)
 
+<img width="941" height="433" alt="image" src="https://github.com/user-attachments/assets/3a3308ac-871e-45c5-a6dc-ba627e4c3f5f" />
+
+
  📊 Overview
 
 This project consolidates and analyzes performance data across the full Irish Life fund range, helping investors and analysts compare funds by risk band, return horizon, and sustainability classification — all from a single interactive interface.
